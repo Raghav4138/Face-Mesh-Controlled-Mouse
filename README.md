@@ -25,8 +25,13 @@ This project uses OpenCV and MediaPipe to control the cursor with face movements
    pip install opencv-python mediapipe pyautogui
 3. Run the script:
    ```bash
-   python FaceMeshMouse.py
+   python main.py
 
 ##Acknowledgements
 I would like to mention that this project was inspired from the following youtube video. Great Work. Must Watch.
 https://www.youtube.com/watch?v=vJWzH_2F64g
+
+
+## License
+
+This project is licensed under the MIT License.
